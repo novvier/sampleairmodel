@@ -1,0 +1,69 @@
+         METPREP    I88 AERSURF : AERSURF file opened successfully:  AERSURFACE.OUT
+         METPREP    I19 AERSURF : "END OF FILE" on unit   5 after AERSURF file record #  22
+         JOB        I19  SETUP  : "END OF FILE" ON UNIT  5 AFTER RECORD #  39
+         JOB        W21 OSTEST  : OSHEIGHTS and HTnn both specified. OSHEIGHTS keyword will be used and HTnn variables ignored.
+         METPREP    I81 FNDCOMDT: ASOS commission date NOT found for WBAN =      0; of Call_ID =
+  160101 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160101 METPREP    I84  MPPBL  : UAID =   1 for HR:   7 LST
+  160102 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160102 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160103 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160103 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160104 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160104 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160105 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160105 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160106 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160106 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160107 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160107 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160108 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160108 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160109 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160109 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160110 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160110 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160111 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160111 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160112 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160112 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160113 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160113 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160114 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160114 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160115 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160115 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160116 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160116 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160117 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160117 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160118 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160118 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160119 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160119 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160120 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160120 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160121 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160121 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160122 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160122 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160123 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160123 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160124 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160124 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160125 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160125 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160126 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160126 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160127 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160127 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160128 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160128 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160129 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160129 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160130 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160130 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+  160131 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  160131 METPREP    I84  MPPBL  : UAID =   3 for HR:   7 LST
+      31 METPREP    I79  FETCH  : EOF reached on input data file after 000000
+         METPREP    W86  MPFIN  : Delta-T height range may not be appropriate for BULKRN method. DT01 heights (m):    2.00   18.75

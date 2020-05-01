@@ -1,0 +1,98 @@
+****************************************
+** AERMOD PARAMETROS DE ENTRADA
+** Fecha: 27/01/2020
+** Projecto: DISPERSIÓN TERMINAL VILLA
+** Años: 2016-2018
+** Ejecutado por: NOVVIER USCUCHAGUA
+****************************************
+**
+**
+****************************************
+** PARÁMETROS DE CONTROL
+****************************************
+**
+CO STARTING
+CO TITLEONE DISPERSIÓN TERMINAL VILLA EL SALVADOR - ESCENARIO 1 - CO
+CO TITLETWO EJECUTADO POR N. USCUCHAGUA
+CO MODELOPT DFAULT CONC
+CO AVERTIME 1 8
+CO POLLUTID CO
+CO FLAGPOLE 1.5
+CO RUNORNOT RUN
+CO ERRORFIL CONS_CO_ERRORS_TSER.OUT
+CO FINISHED
+**
+**
+****************************************
+** PARÁMETROS DE LAS FUENTES
+****************************************
+**
+SO STARTING
+** -----------------------------------------------------------------------------
+** LOCALIZACIÓN 
+** -----------------------------------------------------------------------------
+SO ELEVUNIT METERS
+SO LOCATION  ZCONTL      AREAPOLY     288573.690   8646131.710        12.20
+SO LOCATION  ZMARIT      AREAPOLY     287627.070   8645134.980         0.00
+** -----------------------------------------------------------------------------
+** EMISIÓN:
+** -----------------------------------------------------------------------------
+** TIPO AREA
+** -----------------------------------------------------------------------------
+**          SRCID   AREMIS    RELHGT   NVERTS
+**                  g/(g-m2)  (M)      
+SO SRCPARAM ZCONTL  1.000     1.00     4
+SO SRCPARAM ZMARIT  1.000     1.00     5
+**          SRCID   X           Y            X           Y
+SO AREAVERT ZCONTL  288573.690  8646131.710  288751.220  8646039.600
+SO AREAVERT ZCONTL  288659.120  8645862.070  288481.590  8645954.180
+SO AREAVERT ZMARIT  287627.070  8645134.980  287812.690  8645435.760
+SO AREAVERT ZMARIT  287920.640  8645433.620  287981.740  8645344.600
+SO AREAVERT ZMARIT  287832.090  8645024.410
+** -----------------------------------------------------------------------------
+** VARIACIÓN TEMPORAL DE LAS EMISIONES
+** HOUR-OF-DAY              0-8        8-12        12-14       14-17       17-0
+SO EMISFACT ZCONTL  HROFDY  8*1.35E-05 4*2.03E-04  2*1.92E-04  3*8.50E-05  7*1.35E-05
+SO EMISFACT ZMARIT  HROFDY  8*0.000    4*1.62E-04  2*0.000     3*0.000     7*0.000
+** -----------------------------------------------------------------------------
+** PARÁMETROS DE ARRASTRE POR EDIFICIOS
+** NO APLICA
+** -----------------------------------------------------------------------------
+SO SRCGROUP ALL 
+SO FINISHED
+**
+**
+*********************************
+** Parámetros de receptores
+*********************************
+**
+RE STARTING
+RE INCLUDED ../../1_GEO/RECEPTOR_DISC.DAT
+RE FINISHED    
+**
+**
+*********************************
+** Parámetros de meteorológicos
+*********************************
+**
+ME STARTING
+ME SURFFILE ../../2_MET/MET2015788_AERMET_2016-2018.SFC
+ME PROFFILE ../../2_MET/MET2015788_AERMET_2016-2018.PFL
+ME SURFDATA 0 2017
+ME UAIRDATA 99999 2017
+ME SITEDATA 99999 2017
+ME PROFBASE 13.28 METERS
+ME STARTEND 2016 01 01    2018 12 31
+ME FINISHED
+**
+**
+*********************************
+** Parámetros de salida
+*********************************
+**
+OU STARTING                                                                                                                         
+OU RECTABLE ALLAVE FIRST SECOND THIRD 
+OU POSTFILE 1 ALL PLOT CONS_CO_01HR.DAT
+OU POSTFILE 8 ALL PLOT CONS_CO_08HR.DAT
+OU SUMMFILE CONS_CO_AERTEST_TSER.OUT 
+OU FINISHED

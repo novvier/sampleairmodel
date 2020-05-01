@@ -1,0 +1,131 @@
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 30-APR-2020 at 12:41:24
+
+                                      Stage 2                          Page   1
+
+              ********************************************************
+              ***        AERMET Setup Finished Successfully        ***
+              ********************************************************
+
+ 1.  Job File Names
+
+     Listing of Messages: STAGE2.ERR
+     Summary (this file): STAGE2.OUT
+
+
+ 2.  Upper Air Data  
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment
+        99999      15.000S           75.000W               5
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          MERGE ONLY                                 
+
+          QA Output     -    OPEN: ONSITE.FSL.OQA
+
+
+ 3.  NWS Surface Data
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+
+
+ 4.  On-site Data    
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment
+        99999      15.000S           75.000W               0
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          MERGE ONLY                                 
+
+          QA Output     -    OPEN: PROFILE.DAT.OQA
+
+
+ 5.  Merged Data
+          Merge Output  -    OPEN: MERGE.DAT.MER
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 30-APR-2020 at 12:41:24
+
+                                      Stage 2                          Page   2
+
+                         Merging the Meteorological Data
+
+
+          The Merged Dates Are:    Starting:  1-JAN-2016
+                                     Ending: 31-JAN-2016
+
+                   ***** Daily Output Statistics *****
+         2016 MO/DY:  1/ 1  1/ 2  1/ 3  1/ 4  1/ 5  1/ 6  1/ 7  1/ 8  1/ 9  1/10
+ NWS  Upper Air  Sdgs   2     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations   0     0     0     0     0     0     0     0     0     0
+ On-site Observations  24    24    24    24    24    24    24    24    24    24
+ Ave 1-min ASOS Winds   0     0     0     0     0     0     0     0     0     0
+
+         2016 MO/DY:  1/11  1/12  1/13  1/14  1/15  1/16  1/17  1/18  1/19  1/20
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations   0     0     0     0     0     0     0     0     0     0
+ On-site Observations  24    24    24    24    24    24    24    24    24    24
+ Ave 1-min ASOS Winds   0     0     0     0     0     0     0     0     0     0
+
+         2016 MO/DY:  1/21  1/22  1/23  1/24  1/25  1/26  1/27  1/28  1/29  1/30
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations   0     0     0     0     0     0     0     0     0     0
+ On-site Observations  24    24    24    24    24    24    24    24    24    24
+ Ave 1-min ASOS Winds   0     0     0     0     0     0     0     0     0     0
+
+         2016 MO/DY:  1/31
+ NWS  Upper Air  Sdgs   3
+ NWS Sfc Observations   0
+ On-site Observations  24
+ Ave 1-min ASOS Winds   0
+
+
+ TOTAL OBSERVATIONS READ:
+    Upper Air Soundings :     61
+    NWS Sfc Observations:      0
+    On-site Observations:    744
+    1-min ASOS Wind Data:      0
+
+                   ***** MERGE PROCESS COMPLETED *****
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 30-APR-2020 at 12:41:24
+
+                                      Stage 2                          Page   3
+
+              ********************************************************
+              ***   AERMET Data Processing Finished Successfully   ***
+              ********************************************************
+
+
+                      **** AERMET MESSAGE SUMMARY TABLE ****
+
+          0- 9   10-19   20-29   30-39   40-49   50-59   60-69   70-89   TOTAL
+       ------------------------------------------------------------------------
+
+  JOB       
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       1       0       0       0       0       0       1
+    I      0       1       6       0       0       0       0       0       7
+
+  MERGE     
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       0       0       1       0       1
+    I      0       0       0       0       0       1       0       0       1
+       ------------------------------------------------------------------------
+           0       1       7       0       0       1       1       0      10
+
+        ****    ERROR MESSAGES    ****
+
+               ---  NONE  ---
+
+
+        ****   WARNING MESSAGES   ****
+         JOB        W21 OSTEST  : OSHEIGHTS and HTnn both specified. OSHEIGHTS keyword will be used and HTnn variables ignored.
+         MERGE      W69 MRPATH  : MERGING UPPER AIR SDGS. AND ON-SITE DATA ONLY

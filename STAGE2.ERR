@@ -1,0 +1,11 @@
+         JOB        I19  SETUP  : "END OF FILE" ON UNIT  5 AFTER RECORD #  13
+         JOB        I25   TEST  : SUMMARY: NO DATA EXTRACTION FOR UPPERAIR
+         JOB        I25   TEST  : SUMMARY: NO DATA QA FOR UPPERAIR
+         JOB        I26   TEST  : SUMMARY: NO DATA EXTRACTION FOR SURFACE
+         JOB        I26   TEST  : SUMMARY: NO DATA QA FOR SURFACE
+         JOB        W21 OSTEST  : OSHEIGHTS and HTnn both specified. OSHEIGHTS keyword will be used and HTnn variables ignored.
+         JOB        I27   TEST  : SUMMARY: NO DATA QA FOR ONSITE
+         JOB        I26   TEST  : SUMMARY: NO SURFACE data to merge
+         MERGE      W69 MRPATH  : MERGING UPPER AIR SDGS. AND ON-SITE DATA ONLY
+            103 HEADERS PROCESSED FROM INPUT FILES
+         MERGE      I59 OSFILL2 : EOF for ONSITE data after observation #:     744

@@ -11,7 +11,8 @@
 PW CODE    L#      MODNAM                       ERROR MESSAGES                      HINTS
 -- ---- ------- ------------- -------------------------------------------------- ------------
   
-ME W187      76       MEOPEN: ADJ_U* Option for Stable Low Winds used in AERMET              
-ME W182      76       MEOPEN: MMIF-generated meteorological inputs were used                 
-ME W181      76       MEOPEN: BULKRN Delta-T & SolarRad option for SBL was used     with MMIF
+RE W216      61       RECART: FLAG Input Inconsistent With Option: Defaults Used        GRID1
+ME W187      77       MEOPEN: ADJ_U* Option for Stable Low Winds used in AERMET              
+ME W182      77       MEOPEN: MMIF-generated meteorological inputs were used                 
+ME W181      77       MEOPEN: BULKRN Delta-T & SolarRad option for SBL was used     with MMIF
 MX W394       1       METEXT: Met data may be from outdated version of AERMET:     No NAD/ADJ

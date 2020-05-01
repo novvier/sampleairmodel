@@ -1,5 +1,5 @@
-* AERMOD ( 19191): DISPERSIÓN - CO                                                         04/30/20
-* AERMET ( 19191): EJECUTADO POR N. USCUCHAGUA                                              22:05:39
+* AERMOD ( 19191): DISPERSIÓN - CO                                                         05/01/20
+* AERMET ( 19191): EJECUTADO POR N. USCUCHAGUA                                              00:04:22
 * MODELING OPTIONS USED:   NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 *         PLOT FILE OF  HIGH   1ST HIGH  1-HR VALUES FOR SOURCE GROUP: ALL     
 *         FOR A TOTAL OF  1681 RECEPTORS.

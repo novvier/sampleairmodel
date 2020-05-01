@@ -113,8 +113,8 @@ OU FINISHED
  *** SETUP Finishes Successfully ***
  ***********************************
 
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   1
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -187,8 +187,8 @@ OU FINISHED
 
  **Detailed Error/Message File:   CO_ERRORS_PLOT.OUT                                                                              
  **File for Summary of Results:   CO_AERTEST_PLOT.OUT                                                                             
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   2
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -201,8 +201,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  STACK1           0   0.10000E+01  500000.0 8341674.0   500.0    65.00   425.00    15.00     5.00    NO      NO    NO  HROFDY 
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   3
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -214,8 +214,8 @@ OU FINISHED
 
 
   ALL        STACK1      ,
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   4
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -231,8 +231,8 @@ OU FINISHED
       13   .45000E+03     14   .45000E+03     15   .45000E+03     16   .45000E+03     17   .45000E+03     18   .00000E+00
       19   .00000E+00     20   .00000E+00     21   .00000E+00     22   .00000E+00     23   .00000E+00     24   .00000E+00
 
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   5
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -257,8 +257,8 @@ OU FINISHED
       8341624.0, 8341674.0, 8341724.0, 8341774.0, 8341824.0, 8341874.0, 8341924.0, 8341974.0, 8342024.0, 8342074.0,
       8342124.0, 8342174.0, 8342224.0, 8342274.0, 8342324.0, 8342374.0, 8342424.0, 8342474.0, 8342524.0, 8342574.0,
       8342624.0,
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   6
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -310,8 +310,8 @@ OU FINISHED
   8340774.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340724.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340674.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   7
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -324,8 +324,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
   8340624.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   8
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -377,8 +377,8 @@ OU FINISHED
   8340774.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340724.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340674.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE   9
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -391,8 +391,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
   8340624.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  10
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -444,8 +444,8 @@ OU FINISHED
   8340774.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340724.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340674.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  11
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -458,8 +458,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
   8340624.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  12
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -511,8 +511,8 @@ OU FINISHED
   8340774.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340724.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
   8340674.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  13
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -525,8 +525,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
   8340624.00 |          1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  14
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -578,8 +578,8 @@ OU FINISHED
   8340774.00 |          1.50         1.50         1.50         1.50         1.50
   8340724.00 |          1.50         1.50         1.50         1.50         1.50
   8340674.00 |          1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  15
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -592,8 +592,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
   8340624.00 |          1.50         1.50         1.50         1.50         1.50
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  16
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -606,8 +606,8 @@ OU FINISHED
                             - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
                              STACK1              500000.0     8341674.0             0.00
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  17
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -634,8 +634,8 @@ OU FINISHED
                                                             (METERS/SEC)
 
                                                  1.54,   3.09,   5.14,   8.23,  10.80,
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  18
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -676,8 +676,8 @@ OU FINISHED
  16 01 01   1 22    0.0  0.117 -9.000 -9.000 -999.  221.   8888.0  0.01   7.52   1.00    2.03  153.   10.0  294.2    2.0
  16 01 01   1 23    0.0  0.144 -9.000 -9.000 -999.  211.   8888.0  0.01   7.52   1.00    2.48  148.   10.0  294.1    2.0
  16 01 01   1 24    0.0  0.111 -9.000 -9.000 -999.  190.   8888.0  0.01   7.52   1.00    1.91  124.   10.0  294.0    2.0
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  19
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -715,8 +715,8 @@ OU FINISHED
  16 01 01 01 5000.0 1  216.    2.74   272.8   99.0  -99.00  -99.00
 
  F indicates top of profile (=1) or below (=0)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  20
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -771,8 +771,8 @@ OU FINISHED
  8340774.0 |      5.24473 (16012611)      5.53851 (16012611)      5.80824 (16012611)      6.01284 (16012611)      6.15515 (16012611)
  8340724.0 |      5.01984 (16011109)      5.27184 (16012611)      5.55365 (16012611)      5.80824 (16012611)      6.00316 (16012611)
  8340674.0 |      4.93952 (16011109)      5.02407 (16011109)      5.27184 (16012611)      5.53851 (16012611)      5.78306 (16012611)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  21
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -788,8 +788,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      4.85941 (16011109)      4.93952 (16011109)      5.01984 (16011109)      5.24473 (16012611)      5.49323 (16012611)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  22
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -844,8 +844,8 @@ OU FINISHED
  8340774.0 |      6.36391 (16011109)      6.79282 (16011109)      7.23799 (16011109)      7.67399 (16011109)      8.09400 (16011109)
  8340724.0 |      6.14046 (16012611)      6.28607 (16011109)      6.67761 (16011109)      7.08036 (16011109)      7.47819 (16011109)
  8340674.0 |      5.97314 (16012611)      6.11121 (16012611)      6.21786 (16012611)      6.51082 (16011109)      6.86654 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  23
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -861,8 +861,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      5.73097 (16012611)      5.91989 (16012611)      6.06294 (16012611)      6.16620 (16012611)      6.29893 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  24
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -917,8 +917,8 @@ OU FINISHED
  8340774.0 |      8.48463 (16011109)      8.73344 (16011109)      8.80481 (16011109)      9.17075 (16012010)      9.44938 (16012010)
  8340724.0 |      7.85666 (16011109)      8.21408 (16011109)      8.53473 (16011109)      8.72963 (16011109)      8.78625 (16011109)
  8340674.0 |      7.22214 (16011109)      7.55936 (16011109)      7.87342 (16011109)      8.16273 (16011109)      8.41752 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  25
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -934,8 +934,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      6.60725 (16011109)      6.91143 (16011109)      7.20631 (16011109)      7.47819 (16011109)      7.72349 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  26
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -990,8 +990,8 @@ OU FINISHED
  8340774.0 |      9.46693 (16012010)      9.48186 (16012010)      9.49416 (16012010)      9.50381 (16012010)      9.51075 (16012010)
  8340724.0 |      8.87913 (16012010)      9.23864 (16012010)      9.44399 (16012010)      9.45342 (16012010)      9.46017 (16012010)
  8340674.0 |      8.63433 (16011109)      8.72963 (16011109)      8.76376 (16011109)      8.78997 (16011109)      8.80851 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  27
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1007,8 +1007,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      7.94077 (16011109)      8.12838 (16011109)      8.28225 (16011109)      8.40069 (16011109)      8.48463 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  28
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1063,8 +1063,8 @@ OU FINISHED
  8340774.0 |      9.51495 (16012010)      9.51635 (16012010)      9.51495 (16012010)      9.51075 (16012010)      9.50381 (16012010)
  8340724.0 |      9.46422 (16012010)      9.46558 (16012010)      9.46422 (16012010)      9.46017 (16012010)      9.45342 (16012010)
  8340674.0 |      8.81954 (16011109)      8.82321 (16011109)      8.81954 (16011109)      8.80851 (16011109)      8.78997 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  29
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1080,8 +1080,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      8.53473 (16011109)      8.55139 (16011109)      8.53473 (16011109)      8.48463 (16011109)      8.40069 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  30
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1136,8 +1136,8 @@ OU FINISHED
  8340774.0 |      9.49416 (16012010)      9.48186 (16012010)      9.46693 (16012010)      9.44938 (16012010)      9.17075 (16012010)
  8340724.0 |      9.44399 (16012010)      9.23864 (16012010)      8.87913 (16012010)      8.78625 (16011109)      8.72963 (16011109)
  8340674.0 |      8.76376 (16011109)      8.72963 (16011109)      8.63433 (16011109)      8.41752 (16011109)      8.16273 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  31
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1153,8 +1153,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      8.28225 (16011109)      8.12838 (16011109)      7.94077 (16011109)      7.72349 (16011109)      7.47819 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  32
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1209,8 +1209,8 @@ OU FINISHED
  8340774.0 |      8.80481 (16011109)      8.73344 (16011109)      8.48463 (16011109)      8.09400 (16011109)      7.67399 (16011109)
  8340724.0 |      8.53473 (16011109)      8.21408 (16011109)      7.85666 (16011109)      7.47819 (16011109)      7.08036 (16011109)
  8340674.0 |      7.87342 (16011109)      7.55936 (16011109)      7.22214 (16011109)      6.86654 (16011109)      6.51082 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  33
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1226,8 +1226,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      7.20631 (16011109)      6.91143 (16011109)      6.60725 (16011109)      6.29893 (16011109)      6.16620 (16012611)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  34
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1282,8 +1282,8 @@ OU FINISHED
  8340774.0 |      7.23799 (16011109)      6.79282 (16011109)      6.36391 (16011109)      6.15515 (16012611)      6.01284 (16012611)
  8340724.0 |      6.67761 (16011109)      6.28607 (16011109)      6.14046 (16012611)      6.00316 (16012611)      5.80824 (16012611)
  8340674.0 |      6.21786 (16012611)      6.11121 (16012611)      5.97314 (16012611)      5.78306 (16012611)      5.53851 (16012611)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  35
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1299,8 +1299,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      6.06294 (16012611)      5.91989 (16012611)      5.73097 (16012611)      5.49323 (16012611)      5.24473 (16012611)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  36
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1355,8 +1355,8 @@ OU FINISHED
  8340774.0 |      5.80824 (16012611)
  8340724.0 |      5.55365 (16012611)
  8340674.0 |      5.27184 (16012611)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  37
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1372,8 +1372,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      5.01984 (16011109)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  38
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1428,8 +1428,8 @@ OU FINISHED
  8340774.0 |      3.52365 (16012016)      3.65834 (16012016)      3.79941 (16012016)      3.94709 (16012016)      4.10116 (16012016)
  8340724.0 |      3.41259 (16012016)      3.53623 (16012016)      3.66525 (16012016)      3.79941 (16012016)      3.93873 (16012016)
  8340674.0 |      3.31046 (16012016)      3.41835 (16012016)      3.53623 (16012016)      3.65834 (16012016)      3.78430 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  39
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1445,8 +1445,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      3.22057 (16012016)      3.31046 (16012016)      3.41259 (16012016)      3.52365 (16012016)      3.63780 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  40
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1501,8 +1501,8 @@ OU FINISHED
  8340774.0 |      4.27232 (16012016)      4.46602 (16012016)      4.66611 (16012016)      4.80161 (16012016)      4.91626 (16012016)
  8340724.0 |      4.08281 (16012016)      4.23705 (16012016)      4.41414 (16012016)      4.59490 (16012016)      4.75065 (16012016)
  8340674.0 |      3.91391 (16012016)      4.04669 (16012016)      4.18134 (16012016)      4.33883 (16012016)      4.49915 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  41
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1518,8 +1518,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      3.75453 (16012016)      3.87343 (16012016)      3.99393 (16012016)      4.11504 (16012016)      4.24288 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  42
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1574,8 +1574,8 @@ OU FINISHED
  8340774.0 |      5.03325 (16012016)      5.15113 (16012016)      5.26876 (16012016)      5.38555 (16012016)      5.46651 (16012016)
  8340724.0 |      4.85056 (16012016)      4.95062 (16012016)      5.04941 (16012016)      5.14525 (16012016)      5.23657 (16012016)
  8340674.0 |      4.65888 (16012016)      4.77161 (16012016)      4.85512 (16012016)      4.93577 (16012016)      5.01204 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  43
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1591,8 +1591,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      4.38240 (16012016)      4.51929 (16012016)      4.65168 (16012016)      4.75065 (16012016)      4.81473 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  44
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1647,8 +1647,8 @@ OU FINISHED
  8340774.0 |      5.51015 (16012016)      5.54818 (16012016)      5.58007 (16012016)      5.60535 (16012016)      5.62366 (16012016)
  8340724.0 |      5.32226 (16012016)      5.40008 (16012016)      5.45336 (16012016)      5.47646 (16012016)      5.49320 (16012016)
  8340674.0 |      5.08239 (16012016)      5.14525 (16012016)      5.19914 (16012016)      5.24293 (16012016)      5.27531 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  45
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1664,8 +1664,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      4.87358 (16012016)      4.92597 (16012016)      4.97073 (16012016)      5.00679 (16012016)      5.03325 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  46
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1720,8 +1720,8 @@ OU FINISHED
  8340774.0 |      5.63476 (16012016)      5.63847 (16012016)      5.63476 (16012016)      5.62366 (16012016)      5.60535 (16012016)
  8340724.0 |      5.50335 (16012016)      5.50675 (16012016)      5.50335 (16012016)      5.49320 (16012016)      5.47646 (16012016)
  8340674.0 |      5.29519 (16012016)      5.30190 (16012016)      5.29519 (16012016)      5.27531 (16012016)      5.24293 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  47
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1737,8 +1737,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      5.04941 (16012016)      5.05484 (16012016)      5.04941 (16012016)      5.03325 (16012016)      5.00679 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  48
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1793,8 +1793,8 @@ OU FINISHED
  8340774.0 |      5.58007 (16012016)      5.54818 (16012016)      5.51015 (16012016)      5.46651 (16012016)      5.38555 (16012016)
  8340724.0 |      5.45336 (16012016)      5.40008 (16012016)      5.32226 (16012016)      5.23657 (16012016)      5.14525 (16012016)
  8340674.0 |      5.19914 (16012016)      5.14525 (16012016)      5.08239 (16012016)      5.01204 (16012016)      4.93577 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  49
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1810,8 +1810,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      4.97073 (16012016)      4.92597 (16012016)      4.87358 (16012016)      4.81473 (16012016)      4.75065 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  50
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1866,8 +1866,8 @@ OU FINISHED
  8340774.0 |      5.26876 (16012016)      5.15113 (16012016)      5.03325 (16012016)      4.91626 (16012016)      4.80161 (16012016)
  8340724.0 |      5.04941 (16012016)      4.95062 (16012016)      4.85056 (16012016)      4.75065 (16012016)      4.59490 (16012016)
  8340674.0 |      4.85512 (16012016)      4.77161 (16012016)      4.65888 (16012016)      4.49915 (16012016)      4.33883 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  51
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1883,8 +1883,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      4.65168 (16012016)      4.51929 (16012016)      4.38240 (16012016)      4.24288 (16012016)      4.11504 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  52
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1939,8 +1939,8 @@ OU FINISHED
  8340774.0 |      4.66611 (16012016)      4.46602 (16012016)      4.27232 (16012016)      4.10116 (16012016)      3.94709 (16012016)
  8340724.0 |      4.41414 (16012016)      4.23705 (16012016)      4.08281 (16012016)      3.93873 (16012016)      3.79941 (16012016)
  8340674.0 |      4.18134 (16012016)      4.04669 (16012016)      3.91391 (16012016)      3.78430 (16012016)      3.65834 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  53
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -1956,8 +1956,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      3.99393 (16012016)      3.87343 (16012016)      3.75453 (16012016)      3.63780 (16012016)      3.52365 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  54
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -2012,8 +2012,8 @@ OU FINISHED
  8340774.0 |      3.79941 (16012016)
  8340724.0 |      3.66525 (16012016)
  8340674.0 |      3.53623 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  55
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -2029,8 +2029,8 @@ OU FINISHED
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  8340624.0 |      3.41259 (16012016)
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  56
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -2050,8 +2050,8 @@ ALL      HIGH   1ST HIGH VALUE IS     406.85376  ON 16012312: AT (  500050.00,  
                       GP = GRIDPOLR
                       DC = DISCCART
                       DP = DISCPOLR
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  57
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 
@@ -2071,8 +2071,8 @@ ALL      HIGH   1ST HIGH VALUE IS     328.99831  ON 16012316: AT (  500000.00,  
                       GP = GRIDPOLR
                       DC = DISCCART
                       DP = DISCPOLR
- *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        04/30/20
- *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        22:05:39
+ *** AERMOD - VERSION  19191 ***   *** DISPERSIÓN - CO                                                     ***        05/01/20
+ *** AERMET - VERSION  19191 ***   *** EJECUTADO POR N. USCUCHAGUA                                          ***        00:04:22
                                                                                                                        PAGE  58
  *** MODELOPTs:    NonDFAULT  CONC  FLAT  FLGPOL  RURAL  ADJ_U*  MMIF_Data
 

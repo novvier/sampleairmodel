@@ -105,7 +105,7 @@ postPlot <- function(x){
 }
 
 CO_01_GRAF <- postPlot(CO_01HR_RST)
-plot(CO_01HR_RST)
+plot(CO_01_GRAF)
 
 CO_01_GRAF <- postPlot(CO_08HR_RST)
 plot(CO_01_GRAF)
